@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -120,6 +123,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
