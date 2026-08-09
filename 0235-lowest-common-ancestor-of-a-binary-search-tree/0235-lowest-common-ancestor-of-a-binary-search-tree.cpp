@@ -15,7 +15,7 @@ public:
         if(left != nullptr && right != nullptr)
             return root;
 
-        if(left != nullptr)
+        else if(left != nullptr)
             return left;
 
         return right;
