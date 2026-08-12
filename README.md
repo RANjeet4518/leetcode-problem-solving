@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
