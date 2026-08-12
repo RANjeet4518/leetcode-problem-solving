@@ -10,10 +10,10 @@ public:
             for(int j=0;j<matrix[0].size();j++){
 
                 maxheap.push(matrix[i][j]);
-                count++;
+                // count++;
 
-                if(maxheap.size()>k || count>k){
-                    count--;
+                if(maxheap.size()>k){
+                    // count--;
                     maxheap.pop();
                 }
             }
