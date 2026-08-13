@@ -1,24 +1,17 @@
 
 class Solution {
 public:
- void findKthSmallest( priority_queue<int>& pq,TreeNode* root,int k,int& ans){
-       
-       if(root==nullptr) return;
-        
-        pq.push(root->val);
-        if(pq.size()>k) pq.pop();
-         ans=pq.top();
-        findKthSmallest(pq,root->left,k,ans);
-        findKthSmallest(pq,root->right,k,ans);
-        
+void inor(vector<int>& ans,TreeNode* root){
+    if(root==nullptr) return;
+        inor(ans,root->left);
+        ans.push_back(root->val);
+        inor(ans,root->right);
 
- }
+}
     int kthSmallest(TreeNode* root, int k) {
-         priority_queue<int> pq;
-         int ans=0;
-      findKthSmallest(pq,root,k,ans);
-      return ans;
-     
+        vector<int> ans;
+        inor(ans,root);
+        return ans[k-1];
         
     }
 };
