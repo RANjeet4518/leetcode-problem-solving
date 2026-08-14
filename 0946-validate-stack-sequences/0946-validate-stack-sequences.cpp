@@ -13,19 +13,17 @@ public:
             st2.pop();
             st1.pop();
            
-         }
-         
-            
+         }     
         }
-        if(st1.size()!=0 && st2.top()!=st1.top()){
-            return false;
-        }
-        else{
-            while(st1.size()>0 && st2.top()==st1.top()){
-                st1.pop();
-                st2.pop();
-            }
-        }
+        // if(st1.size()!=0 && st2.top()!=st1.top()){
+        //     return false;
+        // }
+        // else{
+        //     while(st1.size()>0 && st2.top()==st1.top()){
+        //         st1.pop();
+        //         st2.pop();
+        //     }
+        // }
         return st1.size()==0 ? true:false;
         
     }
