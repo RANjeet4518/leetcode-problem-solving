@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -238,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
