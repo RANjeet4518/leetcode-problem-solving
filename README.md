@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
