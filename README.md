@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
