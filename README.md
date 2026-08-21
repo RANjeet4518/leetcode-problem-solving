@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
 ## Geometry
 |  |
 | ------- |
