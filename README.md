@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
