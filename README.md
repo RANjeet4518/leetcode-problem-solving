@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
+| [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 ## Bracket Sequences
 |  |
 | ------- |
