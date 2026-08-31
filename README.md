@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
