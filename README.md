@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
