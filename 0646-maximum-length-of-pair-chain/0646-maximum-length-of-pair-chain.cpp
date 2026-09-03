@@ -1,22 +1,33 @@
 class Solution {
 public:
+typedef pair<int,int> pi;
+
     int findLongestChain(vector<vector<int>>& pairs) {
+        int n=pairs.size();
 
-        sort(pairs.begin(), pairs.end(),
-             [](const vector<int>& a, const vector<int>& b) {
-                 return a[1] < b[1];
-             });
+        priority_queue<pi,vector<pi>,greater<pi>> pq;
+        for(auto &p:pairs){
+        
 
-        int ans = 0;
-        int prevEnd = INT_MIN;
-
-        for(auto &p : pairs) {
-            if(p[0] > prevEnd) {
-                ans++;
-                prevEnd = p[1];
-            }
+            pq.push({p[1],p[0]});
         }
+        pairs.clear();
+        while(pq.size()>0){
+           
+            pairs.push_back({pq.top().second,pq.top().first});
+            pq.pop();
+        }
+        int count=0;
+        int prevEnd=INT_MIN;
+        for(auto &p:pairs){
+             if(p[0]>prevEnd){
+                count++;
+                prevEnd=p[1];
+             }
+        }
+        return count;
 
-        return ans;
+
+        
     }
 };
