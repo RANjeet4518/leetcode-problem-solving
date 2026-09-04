@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
