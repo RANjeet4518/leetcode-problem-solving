@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1710-maximum-units-on-a-truck) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1710-maximum-units-on-a-truck) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
