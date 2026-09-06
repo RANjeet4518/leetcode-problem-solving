@@ -1,10 +1,10 @@
 class Solution {
 public:
     long long countSubstrings(string s, char c) {
-        long long count=0, count1=0;
+        long long m=0;
         for(auto &p:s){
-            if(p==c){ count=count+1+count1;count1++; }
+            if(p==c)m++;
         }
-        return count;
+        return m*(m+1)/2;
     }
 };
