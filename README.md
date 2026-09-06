@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
