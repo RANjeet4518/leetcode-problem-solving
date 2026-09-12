@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bracket Sequences
 |  |
 | ------- |
