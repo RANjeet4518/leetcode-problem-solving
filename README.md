@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0491-non-decreasing-subsequences) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -467,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
