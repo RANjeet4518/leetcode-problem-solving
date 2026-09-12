@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0089-gray-code) |
 | [0319-bulb-switcher](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0338-counting-bits) |
