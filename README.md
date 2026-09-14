@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0319-bulb-switcher](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
