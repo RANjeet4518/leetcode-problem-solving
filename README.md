@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3866-first-unique-even-element](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
+| [3866-first-unique-even-element](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3866-first-unique-even-element) |
 ## Stack
 |  |
 | ------- |
