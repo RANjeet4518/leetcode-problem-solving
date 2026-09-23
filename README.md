@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3692-majority-frequency-characters) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Geometry
 |  |
