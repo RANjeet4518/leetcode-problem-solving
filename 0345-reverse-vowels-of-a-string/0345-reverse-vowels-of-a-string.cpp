@@ -16,9 +16,7 @@ bool checkVowel(char ch){
             char chi=s[i];
             char chj=s[j];
           if(checkVowel(chi) && checkVowel(chj)){
-            char temp=chi;
-            s[i]=s[j];
-            s[j]=temp;
+           swap(s[i],s[j]);
             i++;
             j--;
           }
