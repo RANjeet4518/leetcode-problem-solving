@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0786-k-th-smallest-prime-fraction) |
