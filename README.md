@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0319-bulb-switcher](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0319-bulb-switcher) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
@@ -550,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
