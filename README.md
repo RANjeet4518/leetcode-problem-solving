@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0213-house-robber-ii) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
