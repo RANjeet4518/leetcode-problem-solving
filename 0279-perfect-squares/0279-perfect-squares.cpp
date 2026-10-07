@@ -6,7 +6,7 @@ int findMinsum(int n,vector<int>& dp){
     }
     int ans=INT_MAX;
     if(dp[n]!=-1) return dp[n];
-    for(int i=1;i<=n;i++){
+    for(int i=1;i*i<=n;i++){
         if(i*i>n) continue;
       ans=min(ans,1+findMinsum(n-i*i,dp));
     }
