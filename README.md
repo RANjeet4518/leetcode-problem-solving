@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
