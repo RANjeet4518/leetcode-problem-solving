@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -612,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
