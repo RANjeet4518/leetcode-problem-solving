@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0836-rectangle-overlap) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
@@ -604,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
