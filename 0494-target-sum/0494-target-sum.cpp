@@ -19,7 +19,7 @@ void Allprint(vector<int>& nums,int target,int& count,int sum,int i){
         int sum=0;
         int count=0;
         int i=0;
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
     Allprint(nums,target,count,sum,i);
     return count;
 
