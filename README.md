@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2182-construct-string-with-repeat-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -628,4 +630,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
