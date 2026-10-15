@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
