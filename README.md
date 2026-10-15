@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Binary Indexed Tree
 |  |
