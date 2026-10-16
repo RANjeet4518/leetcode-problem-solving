@@ -6,7 +6,7 @@ int findNoOfway(vector<int>& nums,vector<int>& dp,int target){
     if(dp[target]!=-1)return dp[target];
     int ans=0;
     for(int i=0;i<nums.size();i++){
-        if(nums[i]>target)continue;
+        if(nums[i]>target)break;
       ans+=findNoOfway(nums,dp,target-nums[i]);
     }
     
@@ -17,6 +17,5 @@ int findNoOfway(vector<int>& nums,vector<int>& dp,int target){
         sort(nums.begin(),nums.end());
        return findNoOfway(nums,dp,target);
 
-        
     }
 };
