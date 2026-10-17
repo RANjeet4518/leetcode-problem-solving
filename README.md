@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
@@ -627,12 +629,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
