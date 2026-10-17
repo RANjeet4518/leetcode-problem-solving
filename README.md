@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
