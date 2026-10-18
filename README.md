@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
