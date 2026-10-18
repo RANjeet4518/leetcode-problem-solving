@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
