@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0491-non-decreasing-subsequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
