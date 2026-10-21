@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0781-rabbits-in-forest) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 ## DP on Trees
