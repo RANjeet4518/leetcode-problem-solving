@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2679-sum-in-a-matrix) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2182-construct-string-with-repeat-limit) |
+| [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -687,4 +691,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
