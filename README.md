@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0781-rabbits-in-forest) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
