@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1143-longest-common-subsequence) |
 ## Rolling Hash
 |  |
