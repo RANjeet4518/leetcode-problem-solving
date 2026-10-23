@@ -1,21 +1,27 @@
 class Solution {
 public:
-bool palindrome(string& s,int i,int j){
-    while(i<=j){
-        if(s[i]!=s[j]) return false;
-        i++;
-        j--;
-    }
-    return true;
-}
     int countSubstrings(string s) {
         int n=s.size();
+        vector<vector<int>> dp(n,vector<int>(n,0));
         int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(palindrome(s,i,j)) count++;
+        for(int k=0;k<n;k++){
+            int i=k,j=0;
+            int temp=n-k;
+            while(temp--){
+                 if(i==j) dp[i][j]=1;
+                 else if(j<n-1 && i>0 && s[i]==s[j]){
+                    if(i-j<=2) dp[i][j]=1;
+                  else dp[i][j]=(dp[i-1][j+1]==1);
+                 }
+                 else dp[i][j]=0;
+                 if(dp[i][j]==1) count++;
+                 i++;
+                 j++;
+              
             }
+          
         }
         return count;
+        
     }
 };
