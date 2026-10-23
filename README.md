@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0287-find-the-duplicate-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0647-palindromic-substrings) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0476-number-complement) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 ## 0-1 Knapsack
 |  |
@@ -717,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
