@@ -1,13 +1,19 @@
 class Solution {
 public:
-    int numTrees(int n) {
-        if(n==1 || n==0) return 1;
+int findUniqueBinary(int n,vector<int>& dp){
+    if(n==1 || n==0) return 1;
         if(n==2) return 2;
+        if(dp[n]!=-1) return dp[n];
         int ans=0;
-        for(int i=0;i<n;i++){
-            ans+=numTrees(n-1-i)*numTrees(i);
-        }
-        return ans;
+       for(int i=1;i<=n;i++){
+        ans+=findUniqueBinary(n-i,dp)*findUniqueBinary(i-1,dp);
+       }
+        return dp[n]=ans;
+}
 
+    int numTrees(int n) {
+        vector<int> dp(n+1,-1);
+       return findUniqueBinary(n,dp);
+        
     }
 };
