@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0063-unique-paths-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0072-edit-distance) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0647-palindromic-substrings) |
@@ -710,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2261-k-divisible-elements-subarrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
