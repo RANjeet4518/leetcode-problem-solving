@@ -1,25 +1,17 @@
 
 class Solution {
 public:
-int maxDia=0;
-int levels(TreeNode* root){
-    if(root==nullptr){
-        return 0;
-    }
-    return 1+max(levels(root->left),levels(root->right));
+int diameter(TreeNode* root,int& mx){
+    if(root==nullptr) return 0;
+     int left=diameter(root->left,mx);
+     int right=diameter(root->right,mx);
+     int path=left+right;
+     mx=max(mx,path);
+     return 1+max(left,right);
 }
-
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==nullptr){
-            return 0;
-        }
-        int dia=levels(root->left)+levels(root->right);
-        maxDia=max(maxDia,dia);
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
-      return maxDia;
-        
-
-        
+int mx=0;
+     diameter(root,mx);
+     return mx;
     }
 };
