@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 ## Design
 |  |
