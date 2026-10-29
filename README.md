@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1710-maximum-units-on-a-truck) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
