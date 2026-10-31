@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3665-twisted-mirror-path-count](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2679-sum-in-a-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2679-sum-in-a-matrix) |
+| [3665-twisted-mirror-path-count](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
 |  |
 | ------- |
