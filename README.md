@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0229-majority-element-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0404-sum-of-left-leaves) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0404-sum-of-left-leaves) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2679-sum-in-a-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2679-sum-in-a-matrix) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Longest Increasing Subsequence
