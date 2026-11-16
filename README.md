@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2182-construct-string-with-repeat-limit) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2351-first-letter-to-appear-twice) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/3174-clear-digits) |
