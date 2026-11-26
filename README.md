@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0630-course-schedule-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0630-course-schedule-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0630-course-schedule-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0767-reorganize-string) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RANjeet4518/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
